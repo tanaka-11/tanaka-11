@@ -1,10 +1,10 @@
 # Marina Tanaka 
 ## Dev Front-End
 
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando back-end
-- 📫 Contate-me no email: mtanakasg@gmail.com
-- 😄 Pronouns: Ela/Dela
+- 😄 Hoje trabalho com Front-End...
+- 📚  Estudando Back-End...
+- 📫 Contate-me no email: mtanakasg@gmail.com...
+- 🏳️‍🌈 Pronouns: Ela/Dela
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=tanaka-11&show_icons=true&theme=tokyonight" />
