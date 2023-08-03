@@ -2,7 +2,7 @@
 
   
 # Marina Tanaka 
-## Dev Front-End
+<h2>Dev Front-End</h2>
 
 - 😄 Hoje trabalho com Front-End...
 - 📚  Estudando Back-End...
