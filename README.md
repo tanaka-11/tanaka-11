@@ -1,9 +1,12 @@
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D3945&height=180&animation=twinkling"/> 
+
+  
 # Marina Tanaka 
 ## Dev Front-End
 
 - 😄 Hoje trabalho com Front-End...
 - 📚  Estudando Back-End...
-- 📫 Contate-me no email: mtanakasg@gmail.com...
+- 📫 Contate-me no email: mtanakasg@gmail.com
 - 🏳️‍🌈 Pronouns: Ela/Dela
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -26,3 +29,5 @@
  <img align="center" alt="Tanaka-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
  
 </div>
+
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D3945&height=120&section=footer"/>
