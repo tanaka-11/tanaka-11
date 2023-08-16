@@ -7,7 +7,7 @@
 - 😄 Hoje trabalho com Front-End...
 - 📚  Estudando Back-End...
 - 📫 Contate-me no email: mtanakasg@gmail.com
-- 🏳️‍🌈 Pronouns: Ela/Dela
+- 🏳️‍🌈 Pronomes: Ela/Dela
 
 <br>
 
