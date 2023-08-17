@@ -10,14 +10,7 @@
 
 <br>
 
-
-
-
  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/tanaka-11?cardType=github&theme=city-lights&showIcons=false&preferLogin=false&Border=2D3945&Text=BBC1CD&Ring=1081A3)](https://git.io/awesome-stats-card)
-
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanaka-11&layout=donut&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
  
 <div> 
     <a href = "mailto:mtanakasg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
