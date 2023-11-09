@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D3945&height=180&animation=twinkling"/> 
 
 # Marina Tanaka 
-<h2>Dev Front-End</h2>
+<h2>Dev Full-Stack</h2>
 
-- 😄 Hoje trabalho com Front-End...
-- 📚  Estudando Back-End...
+- 😄 Hoje trabalho com Front-End e Back-End...
+- 📚  Estudando Mobile...
 - 📫 Contate-me no email: mtanakasg@gmail.com
 - 🏳️‍🌈 Pronomes: Ela/Dela
 
