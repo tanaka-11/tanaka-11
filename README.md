@@ -28,6 +28,7 @@
  <img align="center" alt="Tanaka-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
  <img align="center" alt="Tanaka-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
  <img align="center" alt="Tanaka-WP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
+ <img align="center" alt="Tanaka-WP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
 
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D3945&height=120&section=footer"/>
