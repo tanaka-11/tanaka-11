@@ -1,18 +1,18 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D3945&height=180&animation=twinkling"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2D3945&height=180&animation=twinkling"/>
 
-# Marina Tanaka 
+# Marina Tanaka
+
 <h2>Dev Full-Stack</h2>
 
 - 😄 Hoje trabalho com Front-End e Back-End...
-- 📚  Estudando Mobile...
+- 📚 Estudando Mobile...
 - 📫 Contate-me no email: mtanakasg@gmail.com
 - 🏳️‍🌈 Pronomes: Ela/Dela
 
 <br>
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/tanaka-11?cardType=github&theme=city-lights&showIcons=false&preferLogin=false&Border=2D3945&Text=BBC1CD&Ring=1081A3)](https://git.io/awesome-stats-card)
 
- [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/tanaka-11?cardType=github&theme=city-lights&showIcons=false&preferLogin=false&Border=2D3945&Text=BBC1CD&Ring=1081A3)](https://git.io/awesome-stats-card)
- 
  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanaka-11&theme=github_dark&layout=compact&hide_border=true" />
 </a> 
@@ -25,6 +25,7 @@
 <br>
 
 # Habilidades
+
 <div style="display: inline_block"><br>
  <img align="center" alt="Tanaka-NodeJs" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> 
  <img align="center" alt="Tanaka-Js" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -36,8 +37,6 @@
  <img align="center" alt="Tanaka-WP" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
  <img align="center" alt="Tanaka-WP" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
 </div>
-
-# Estudando
 <div style="display: inline_block"><br>
  <img align="center" alt="Tanaka-reactJs" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
  <img align="center" alt="Tanaka-reactJs" height="80" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-line.svg">
