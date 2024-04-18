@@ -4,8 +4,7 @@
 
 <h2>Dev Full-Stack</h2>
 
-- 😄 Hoje trabalho com Front-End e Back-End...
-- 📚 Estudando Mobile...
+- 😄 Hoje trabalho como Full-Stack Mobile
 - 📫 Contate-me no email: mtanakasg@gmail.com
 - 🏳️‍🌈 Pronomes: Ela/Dela
 
