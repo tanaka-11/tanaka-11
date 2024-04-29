@@ -2,21 +2,22 @@
 
 <h1>Desenvolvedora Full-Stack Mobile</h1>
 
-<div align="left" style="margin-left: 20px; margin-right: 20px;">   
-  <img align="right" alt="aboutme" width="450" height="300" src="https://i.pinimg.com/originals/36/40/3e/36403e287c5c6ea7e262904320411713.gif">
+<div align="left" style="margin-right: 60px;">   
+  <img align="right" alt="aboutme" width="450" height="300" src="https://i.pinimg.com/originals/36/40/3e/36403e287c5c6ea7e262904320411713.gif" style="margin-right: 20px;">
   <br>
 
-  <h4> 💬 Olá, sou Marina Tanaka, uma desenvolvedora Full-Stack Mobile. </h4>
-  <h4> 🏳️‍🌈 Pronomes: Ela/Dela. </h4>
-  <h4> 🥇 Atualmente, estou focada em dominar o React Native. </h4>
-  <h4> 👨‍💻 Sou apaixonada por codificação e estou constantemente aprendendo novas tecnologias. </h4>
+  <h4 style="margin-right: 20px;"> 💬 Olá, sou Marina Tanaka, uma desenvolvedora Full-Stack Mobile. </h4>
+  <h4 style="margin-right: 20px;"> 🏳️‍🌈 Pronomes: Ela/Dela. </h4>
+  <h4 style="margin-right: 20px;"> 🥇 Atualmente, estou focada em dominar o React Native. </h4>
+  <h4 style="margin-right: 20px;"> 👨‍💻 Sou apaixonada por codificação e estou constantemente aprendendo novas tecnologias. </h4>
 
-<div>
+<div style="margin-right: 20px;">
     <h4>Meus Contatos <br></h4>
-    <a href = "mailto:mtanakasg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href=https://www.linkedin.com/in/marina-tanaka-2a341a268/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="mailto:mtanakasg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/marina-tanaka-2a341a268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 </div>
+
 
 <br>
 <br>
