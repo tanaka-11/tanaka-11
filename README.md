@@ -2,7 +2,7 @@
 
 <h1>Desenvolvedora Full-Stack Mobile</h1>
 
-<div align="left" style="margin-bottom: 100px;">   
+<div align="left">   
   <img align="right" alt="aboutme" width="450" height="300" src="https://i.pinimg.com/originals/36/40/3e/36403e287c5c6ea7e262904320411713.gif">
   <br>
 
@@ -12,6 +12,8 @@
   <h4> 👨‍💻 Sou apaixonada por codificação e estou constantemente aprendendo novas tecnologias. </h4>
   <h4> 📫 Você pode me contatar pelos meus contatos na biografia. </h4> 
 </div>
+<br>
+<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120"/>
 
@@ -28,7 +30,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,react,nextjs,nodejs,figma,firebase,bootstrap)](https://skillicons.dev)
 
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=tanaka-11&point=008FFFE1&area_color=C77DFF&color=ffffff&custom_title=Meu%20Gráfico%20de%20Contribuição -%20Tanaka-11&line=0A10FFFF&bg_color=0d1117&hide_border=true&area=true)" />
- 
-</div>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=tanaka-11&point=008FFFE1&area_color=C77DFF&color=ffffff&custom_title=Meu%20Gráfico%20de%20Contribuição%20-%20Tanaka-11&line=0A10FFFF&bg_color=0d1117&hide_border=true&area=true)" />
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
