@@ -3,7 +3,7 @@
 <h1>Desenvolvedora Full-Stack Mobile</h1>
 
 <div align="left" style="margin-right: 60px;">   
-  <img align="right" alt="aboutme" width="400" height="300" src="https://i.pinimg.com/originals/36/40/3e/36403e287c5c6ea7e262904320411713.gif" style="margin-right: 20px;">
+  <img align="right" alt="aboutme" width="300" height="300" src="https://i.pinimg.com/originals/36/40/3e/36403e287c5c6ea7e262904320411713.gif" style="margin-right: 20px;">
   <br>
 
   <h4 style="margin-right: 20px;"> 💬 Olá, sou Marina Tanaka, uma desenvolvedora Full-Stack Mobile. </h4>
