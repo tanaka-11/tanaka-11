@@ -1,17 +1,17 @@
+<img alt="aboutme" width="100%" height="360" src="https://i.pinimg.com/originals/3d/30/11/3d30117c1a815f3bfb571903de217a2b.jpg">
 <div align="center">
 
 <h1>Desenvolvedora Full-Stack Mobile</h1>
 
-<div align="left" style="margin: 60px;">   
- 
-  <br>
+<div align="left"> 
+<div style="margin: 20px;">
+  <h4> 💬 Olá, sou Marina Tanaka, uma desenvolvedora Full-Stack Mobile. </h4>
+  <h4> 🏳️‍🌈 Pronomes: Ela/Dela. </h4>
+  <h4> 🥇 Atualmente, estou focada em dominar o React Native. </h4>
+  <h4> 👨‍💻 Sou apaixonada por codificação e estou constantemente aprendendo novas tecnologias. </h4>
+</div>
 
-  <h4 style="margin-right: 20px;"> 💬 Olá, sou Marina Tanaka, uma desenvolvedora Full-Stack Mobile. </h4>
-  <h4 style="margin-right: 20px;"> 🏳️‍🌈 Pronomes: Ela/Dela. </h4>
-  <h4 style="margin-right: 20px;"> 🥇 Atualmente, estou focada em dominar o React Native. </h4>
-  <h4 style="margin-right: 20px;"> 👨‍💻 Sou apaixonada por codificação e estou constantemente aprendendo novas tecnologias. </h4>
-
-<div style="margin-right: 20px;">
+<div>
     <h4>Meus Contatos <br></h4>
     <a href="mailto:mtanakasg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/marina-tanaka-2a341a268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
