@@ -2,7 +2,7 @@
 
 <h1>Desenvolvedora Full-Stack Mobile</h1>
 
-<div align="left">   
+<div align="left" style="margin-left: 20px; margin-right: 20px;">   
   <img align="right" alt="aboutme" width="450" height="300" src="https://i.pinimg.com/originals/36/40/3e/36403e287c5c6ea7e262904320411713.gif">
   <br>
 
