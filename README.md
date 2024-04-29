@@ -1,4 +1,4 @@
-<img alt="aboutme" width="100%" height="360" src="https://i.pinimg.com/originals/3d/30/11/3d30117c1a815f3bfb571903de217a2b.jpg">
+<img alt="aboutme" width="100%" height="320" src="https://i.pinimg.com/originals/7c/7a/c9/7c7ac92d3c2b5a5a052d1e5ad05eb1b1.jpg">
 <div align="center">
 
 <h1>Desenvolvedora Full-Stack Mobile</h1>
