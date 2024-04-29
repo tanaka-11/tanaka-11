@@ -8,7 +8,7 @@
   <h3>💬 Olá, sou Marina Tanaka, uma desenvolvedora Full-Stack Mobile.</h3>
   <h3>🏳️‍🌈 Pronomes: Ela/Dela.</h3>
   <h3>🥇 Atualmente, estou focada em dominar o React Native.</h3>
-  <h3>👨‍💻 Sou apaixonada por codificação e estou constantemente aprendendo novas tecnologias.</h3>
+  <h3>👨‍💻 Sou apaixonada por codificação e estou constantemente estudando sobre as tecnologias.</h3>
 </div>
 
 <div>
