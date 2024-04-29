@@ -10,7 +10,7 @@
   <h4> 🏳️‍🌈 Pronomes: Ela/Dela. </h4>
   <h4> 🥇 Atualmente, estou focada em dominar o React Native. </h4>
   <h4> 👨‍💻 Sou apaixonada por codificação e estou constantemente aprendendo novas tecnologias. </h4>
-  <h4> 📫 Você pode me contatar pelos meus contatos na biografia. </h4> 
+  <h4> 📫 Você pode me contatar pelos email: mtanaka@gmail.com. </h4> 
 </div>
 <br>
 <br>
