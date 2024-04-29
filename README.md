@@ -22,7 +22,7 @@
 <br>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=061651&height=120"/>
 
 <h1>Minhas Estatísticas</h1>
 
@@ -39,4 +39,4 @@
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=tanaka-11&point=008FFFE1&area_color=C77DFF&color=ffffff&custom_title=Meu%20Gráfico%20de%20Contribuição%20-%20Tanaka-11&line=0A10FFFF&bg_color=0d1117&hide_border=true&area=true)" />
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=061651&height=120&section=footer"/>
