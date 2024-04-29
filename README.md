@@ -5,14 +5,14 @@
 
 <div align="left"> 
 <div style="margin: 20px;">
-  <h4> 💬 Olá, sou Marina Tanaka, uma desenvolvedora Full-Stack Mobile. </h4>
-  <h4> 🏳️‍🌈 Pronomes: Ela/Dela. </h4>
-  <h4> 🥇 Atualmente, estou focada em dominar o React Native. </h4>
-  <h4> 👨‍💻 Sou apaixonada por codificação e estou constantemente aprendendo novas tecnologias. </h4>
+  <h3>💬 Olá, sou Marina Tanaka, uma desenvolvedora Full-Stack Mobile.</h3>
+  <h3>🏳️‍🌈 Pronomes: Ela/Dela.</h3>
+  <h3>🥇 Atualmente, estou focada em dominar o React Native.</h3>
+  <h3>👨‍💻 Sou apaixonada por codificação e estou constantemente aprendendo novas tecnologias.</h3>
 </div>
 
 <div>
-    <h4>Meus Contatos <br></h4>
+    <h3>Meus Contatos <br></h3>
     <a href="mailto:mtanakasg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/marina-tanaka-2a341a268/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
