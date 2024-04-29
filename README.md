@@ -10,8 +10,14 @@
   <h4> 🏳️‍🌈 Pronomes: Ela/Dela. </h4>
   <h4> 🥇 Atualmente, estou focada em dominar o React Native. </h4>
   <h4> 👨‍💻 Sou apaixonada por codificação e estou constantemente aprendendo novas tecnologias. </h4>
-  <h4> 📫 Você pode me contatar pelos email: mtanaka@gmail.com. </h4> 
+
+  <h2>Meus Contatos</h2>
+<div>
+    <a href = "mailto:mtanakasg@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href=https://www.linkedin.com/in/marina-tanaka-2a341a268/ target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+</div>
+
 <br>
 <br>
 
