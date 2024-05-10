@@ -35,7 +35,7 @@
 
 <h1>Conhecimentos | Frameworks e Bibliotecas</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,react,nextjs,nodejs,figma,firebase,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,wordpress,php,mysql,postman,react,nextjs,vercel,nodejs,figma,firebase,bootstrap)](https://skillicons.dev)
 
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=tanaka-11&point=008FFFE1&area_color=C77DFF&color=ffffff&custom_title=Meu%20Gráfico%20de%20Contribuição%20-%20Tanaka-11&line=0A10FFFF&bg_color=0d1117&hide_border=true&area=true)" />
 
